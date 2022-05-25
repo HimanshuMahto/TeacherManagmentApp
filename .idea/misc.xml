@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/MYSIHPROJECT/app/src/main/res/drawable-v24/background_btn.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/MYSIHPROJECT/app/src/main/res/drawable-v24/background_edttxt.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/MYSIHPROJECT/app/src/main/res/drawable-v24/button.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/MYSIHPROJECT/app/src/main/res/layout/activity_feedback.xml" value="0.25" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/MYSIHPROJECT/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/MYSIHPROJECT/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/MYSIHPROJECT/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/MYSIHPROJECT/app/src/main/res/layout/navigate_head.xml" value="0.25" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/MYSIHPROJECT/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/Himanshu/AndroidStudioProjects/MYSIHPROJECT/app/src/main/res/menu/navigate_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
